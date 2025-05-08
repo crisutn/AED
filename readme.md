@@ -1,2 +1,2 @@
 # AED
-Algorimos y Estructura de Datos 2025
+Algoritmos y Estructura de Datos 2025
